@@ -1,7 +1,7 @@
-# FeedbackFlow - AI-Powered Survey Management System
+# BananaBread - AI-Powered Survey Management System
 
 ## Overview
-FeedbackFlow is an intelligent survey management system that leverages AI to generate targeted questions and manage user feedback over time. Built with SurveyMonkey API integration and AI-powered question generation.
+BananBread is an intelligent survey management system that leverages AI to generate targeted questions and manage user feedback over time. Built with SurveyMonkey API integration and AI-powered question generation.
 
 ## Features
 
