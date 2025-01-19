@@ -8,8 +8,8 @@ BananBread is an intelligent survey management system that leverages AI to gener
 ### Core Features
 - 🤖 AI-Generated Surveys
   - Automatic question generation
-  - Smart answer options
-  - One-click survey creation
+  - Smart answer options (pre-generated)
+  - Non-Intruisive - Users only need to click one button.
   
 - 📊 Adaptive Feedback Collection
   - User-specific question sets
